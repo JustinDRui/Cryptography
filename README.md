@@ -1,1 +1,1 @@
-# Cryptography
+Hi in this repository you will find a video of me going through a workshop I created as well as powerpoint to show you the fundamentals of cryptography and why it is important. You will need Openssl and i am running it on a virtual box linux virtual machine. I hope this helps people learn and get intrested in crptography and other cyber security topics.
